@@ -1,6 +1,8 @@
 The following project was completed for FreeCodeCamp's Responsive Web Design Certification program.
 Link to FreeCodeCamp project instructions: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
+Project link:https://code-brian.github.io/Tribute/
+
 User Stories: 
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
