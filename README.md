@@ -1,7 +1,7 @@
 The following project was completed for FreeCodeCamp's Responsive Web Design Certification program.
 Link to FreeCodeCamp project instructions: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
-Project link:https://code-brian.github.io/Tribute/
+Project link:https://code-brian.github.io/tribute/
 
 User Stories: 
 
